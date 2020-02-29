@@ -31,7 +31,7 @@ def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
   # Produce a new Array that contains the larger number of each of the pairs
   # that are in the inner Arrays
-  
+
   high_nums = []
 row_index = 0
 
@@ -46,7 +46,7 @@ end
 
 high_nums
 
-  
+
 end
 
 
