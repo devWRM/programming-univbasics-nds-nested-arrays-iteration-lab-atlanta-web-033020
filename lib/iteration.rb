@@ -14,7 +14,7 @@ def join_ingredients(src)
         first_top = 0
         second_top = 1
 
-        i_love_pizza << "I love #{src[row_index][first_top]} and #{src[row_index][second_top]} on my pizza."
+        i_love_pizza << "I love #{src[row_index][first_top]} and #{src[row_index][second_top]} on my pizza"
 
         row_index += 1
     end
