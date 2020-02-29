@@ -41,7 +41,7 @@ while row_index < src.length do
   else
     high_nums << src[row_index][1]
   end
-row_index += 0
+row_index += 1
 end
 
 high_nums
